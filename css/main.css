@@ -301,7 +301,7 @@ label::before {
   display: flex;
 }
 .input__cecked:checked + label::before {
-  border: 5px solid #0b76ef;
+  border: 4px solid #0b76ef;
 }
 
 .form_paragraph {
